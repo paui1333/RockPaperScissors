@@ -3,6 +3,7 @@ Created on Sep 15, 2018
 
 @author: Pau Xiong
 '''
+#testme
 #loops the whole game
 keepPlaying = True
 while(keepPlaying):
